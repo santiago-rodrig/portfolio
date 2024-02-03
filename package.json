@@ -10,6 +10,8 @@
     "typecheck": "tsc -b"
   },
   "dependencies": {
+    "@netlify/functions": "^2.0.0",
+    "@netlify/remix-adapter": "^2.0.0",
     "@remix-run/node": "^2.6.0",
     "@remix-run/react": "^2.6.0",
     "cross-env": "^7.0.3",
