@@ -10,7 +10,7 @@ export default {
   ],
   theme: {
     fontFamily: {
-      sans: ['Red Hat Display', 'sans-serif'],
+      sans: ['Kode Mono', 'monospace'],
     },
     extend: {},
   },
