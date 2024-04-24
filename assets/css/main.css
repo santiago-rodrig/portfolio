@@ -1,29 +1,14 @@
+@import "./fonts.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: "Kode Mono";
-  src: url("~/assets/fonts/KodeMono/KodeMono-Regular.ttf") format("truetype");
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: "Kode Mono";
-  src: url("~/assets/fonts/KodeMono/KodeMono-Bold.ttf") format("truetype");
-  font-weight: 700;
-}
-
 body {
-  /* background-color: rgb(250 250 250); */
-  background-color: rgb(250 250 249);
-  color: black;
+  background-color: theme('colors.stone.50');
+  color: theme('colors.black');
 }
 
 img {
   max-width: 100%;
-}
-
-strong {
-  color: rgb(74 222 128);
 }

@@ -1,0 +1,61 @@
+/* BEGIN Kode Mono */
+
+@font-face {
+  font-family: "Kode Mono";
+  src: url("~/assets/fonts/KodeMono/KodeMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Kode Mono";
+  src: url("~/assets/fonts/KodeMono/KodeMono-Bold.ttf") format("truetype");
+  font-weight: 700;
+}
+
+/* END Kode Mono */
+
+/* BEGIN Red Hat Display */
+
+@font-face {
+  font-familu: "Red Hat Display";
+  src: url("~/assets/fonts/Red_Hat_Display/RedHatDisplay-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-familu: "Red Hat Display";
+  src: url("~/assets/fonts/Red_Hat_Display/RedHatDisplay-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-familu: "Red Hat Display";
+  src: url("~/assets/fonts/Red_Hat_Display/RedHatDisplay-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-familu: "Red Hat Display";
+  src: url("~/assets/fonts/Red_Hat_Display/RedHatDisplay-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-familu: "Red Hat Display";
+  src: url("~/assets/fonts/Red_Hat_Display/RedHatDisplay-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-familu: "Red Hat Display";
+  src: url("~/assets/fonts/Red_Hat_Display/RedHatDisplay-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* END Red Hat Display */
