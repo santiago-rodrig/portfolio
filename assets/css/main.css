@@ -12,3 +12,7 @@ body {
 img {
   max-width: 100%;
 }
+
+::selection {
+  background-color: theme('colors.yellow.400');
+}
