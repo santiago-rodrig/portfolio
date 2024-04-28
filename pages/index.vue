@@ -23,7 +23,7 @@
         </div>
       </div>
     </main>
-    <section class="mt-16">
+    <section class="mt-12">
       <Heading :level="2" class="text-center mb-8">Toolset</Heading>
       <div class="md:flex items-start">
         <img class="md:mr-6 md:w-1/3" :style="{ maxWidth: '612px' }" src="~/assets/img/toolbox.png" alt="Toolbox">
