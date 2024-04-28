@@ -41,7 +41,7 @@ const filteredItems = computed(() => {
 </script>
 
 <template>
-  <div class="relative">
+  <div class="relative mb-6">
     <img src="~/assets/icons/search.svg" alt="Magnifying glass" width="20"
       class="absolute top-1/2 -translate-y-1/2 left-2">
     <input id="tool-search" v-model="search" type="text"
