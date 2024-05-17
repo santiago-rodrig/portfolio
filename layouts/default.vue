@@ -1,5 +1,5 @@
 <template>
-  <header class="px-6 py-4 flex place-items-baseline flex-wrap">
+  <header class="px-6 py-4 flex place-items-baseline flex-wrap container mx-auto">
     <div class="font-bold font-mono text-3xl">Santiago Rodriguez</div>
     <div class="font-light italic sm:ml-4 underline">The developer you need.</div>
     <nav class="sm:p-3 drop-shadow-lg sm:ml-16 mt-4">
