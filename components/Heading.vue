@@ -14,7 +14,7 @@ const attrs = useAttrs()
 const cssClass = [{
   'text-6xl': props.level === 1,
   'text-5xl': props.level === 2,
-}, 'text-bold', 'font-mono', attrs.class]
+}, 'font-bold', 'font-mono', attrs.class]
 </script>
 
 <template>

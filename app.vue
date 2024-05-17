@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto py-8">
+  <NuxtLayout>
     <NuxtPage />
-  </div>
+  </NuxtLayout>
 </template>
